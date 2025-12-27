@@ -2,7 +2,7 @@
 data sourcing and apis
 
 
-# 📊 CFTC Commitments of Traders — Gold Futures Positioning
+# CFTC Commitments of Traders — Gold Futures Positioning
 
 This project analyzes **CFTC Commitments of Traders (COT)** data for **Gold futures**, focusing on how different trader categories position themselves over time.
 
@@ -10,7 +10,7 @@ Using the **Disaggregated Futures Only** report via the CFTC’s public API, the
 
 ---
 
-## 🔍 What this project does
+## What this project does
 - Pulls regulatory futures data from the **CFTC public reporting API** (Socrata / SODA)
 - Filters to **Gold futures** contracts
 - Cleans and structures weekly positioning data
@@ -22,13 +22,13 @@ Using the **Disaggregated Futures Only** report via the CFTC’s public API, the
 
 ---
 
-## 📈 Example output
+## Example output
 
 ![Gold net positioning](assets/gold_net_positions.png)
 
 ---
 
-## 🧠 Why this matters
+## Why this matters
 COT positioning is widely used by:
 - macro investors
 - commodity traders
@@ -41,7 +41,7 @@ Net positioning helps identify:
 
 ---
 
-## 🗂 Repository structure
+## Repository structure
 ```text
 .
 ├── notebooks/
@@ -60,7 +60,7 @@ Net positioning helps identify:
 
 ---
 
-## 🛠 Tech stack
+## Tech stack
 - Python
 - requests
 - pandas
@@ -69,7 +69,7 @@ Net positioning helps identify:
 
 ---
 
-## 🔮 Future extensions
+## Future extensions
 - Parameterize commodity selection (any CFTC contract)
 - Normalize positioning by open interest
 - Add z-score / percentile-based positioning signals
@@ -77,6 +77,6 @@ Net positioning helps identify:
 
 ---
 
-## 📌 Data source
+## Data source
 - U.S. Commodity Futures Trading Commission (CFTC)
 - Commitments of Traders — Disaggregated Futures Only Report
