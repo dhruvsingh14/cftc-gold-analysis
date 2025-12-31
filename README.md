@@ -1,7 +1,3 @@
-# data-sourcing-and-apis
-data sourcing and apis
-
-
 # CFTC Commitments of Traders — Gold Futures Positioning
 
 This project analyzes **CFTC Commitments of Traders (COT)** data for **Gold futures**, focusing on how different trader categories position themselves over time.
