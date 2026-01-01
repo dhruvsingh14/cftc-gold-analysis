@@ -1,4 +1,12 @@
+<<<<<<< Updated upstream
 # CFTC Commitments of Traders — Gold Futures Positioning
+=======
+# data-sourcing-and-apis
+data sourcing and apis
+
+
+# CFTC Commitments of Traders - Gold Futures Positioning
+>>>>>>> Stashed changes
 
 This project analyzes **CFTC Commitments of Traders (COT)** data for **Gold futures**, focusing on how different trader categories position themselves over time.
 
@@ -75,4 +83,4 @@ Net positioning helps identify:
 
 ## Data source
 - U.S. Commodity Futures Trading Commission (CFTC)
-- Commitments of Traders — Disaggregated Futures Only Report
+- Commitments of Traders - Disaggregated Futures Only Report
